@@ -7,18 +7,18 @@
 body{
     width: 100%;
     background-color: #f0f2f5;
+    align-items: center;
 }
 
 form{
-    align-items: center;
+   
     background-color: #fff;
     position: absolute;
     width: 370px;
-    height: 400px;
     padding: 10px 5px 20px 5px;
-    margin: -10vh 250px;
     border-radius: 7px;
     box-shadow: 5px 5px 6px -7px;
+    margin-left: 35%;
 
 }
 input[type='text'], input[type='password']{
